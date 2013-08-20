@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -48,6 +49,12 @@
      inkscape:current-layer="svg9559"
      showguides="true"
      inkscape:guide-bbox="true" />
+	 <style>
+		path:not(.State_Lines):hover
+		{
+			opacity: 0.5;
+		}
+	</style>
   <defs
      id="defs9561" />
   <path
